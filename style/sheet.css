@@ -55,7 +55,7 @@ h1, h2 {
     color: rgb(46, 81, 148);
     font-size: 4rem;
     margin: 0;
-    padding: 0;
+    padding: 0 1rem;
     text-align: center;
 }
 
